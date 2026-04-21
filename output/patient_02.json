@@ -1,0 +1,150 @@
+{
+  "patient_id": "patient_02",
+  "conditions": [
+    {
+      "condition_name": "malignant melanoma",
+      "category": "cancer",
+      "subcategory": "primary_malignancy",
+      "status": "active",
+      "onset": "February 2018",
+      "evidence": [
+        {
+          "note_id": "text_0",
+          "line_no": 9,
+          "span": "Malignant melanoma of the left scapula, TD 16 mm, exophytic ulcerating, invasion stage - III, R0"
+        }
+      ]
+    },
+    {
+      "condition_name": "metastatic malignant melanoma",
+      "category": "cancer",
+      "subcategory": "metastasis",
+      "status": "active",
+      "onset": "November 2020",
+      "evidence": [
+        {
+          "note_id": "text_2",
+          "line_no": 9,
+          "span": "-Metastatic malignant melanoma (presumed ID 2018); M1, stage IV according to UICC."
+        },
+        {
+          "note_id": "text_4",
+          "line_no": 9,
+          "span": "-Metastatic malignant melanoma (presumed ID 2018); M1, stage IV according to UICC."
+        }
+      ]
+    },
+    {
+      "condition_name": "atypical melanocytic nevus",
+      "category": "cancer",
+      "subcategory": "pre_malignant",
+      "status": "active",
+      "onset": "November 2020",
+      "evidence": [
+        {
+          "note_id": "text_2",
+          "line_no": 46,
+          "span": "Histology: Histological examination: Gross Description: The sample consists of multiple tan-pink soft tissue fragments, aggregating to 1.8 cm in the greatest dimension. Microscopic description: Sections show a proliferation of atypical melanocytes arranged in nests and as single units at the dermoepidermal junction. Some of these cells infiltrate the papillary dermis. Immunohistochemistry: The atypical cells are positive for HMB-45 and S-100. Melan A is focally positive. Ki-67 proliferation index is about 10%. Final Diagnosis: Dysplastic nevus with severe atypia; margins appear clear. Further excision is recommended to ensure complete removal and to rule out invasive melanoma."
+        }
+      ]
+    },
+    {
+      "condition_name": "cervical lymph node metastasis of malignant melanoma",
+      "category": "cancer",
+      "subcategory": "metastasis",
+      "status": "active",
+      "onset": "January 2021",
+      "evidence": [
+        {
+          "note_id": "text_3",
+          "line_no": 70,
+          "span": "Procedure: PET/CT with 246 MBq (F-18)-fluorodeoxyglucose and a 60-minute uptake period. Findings: CT Findings: Neck: Right Level II: Three lymph nodes, largest measuring 2.1 x 1.8 cm with central necrosis. Right Level III: Two lymph nodes, largest measuring 1.5 x 1.2 cm. Left Level II: One lymph node measuring 1.3 x 1.1 cm. Left Level IV: Two lymph nodes, largest measuring 1.7 x 1.4 cm. Retropharyngeal space: One lymph node measuring 1.0 x 0.9 cm. PET Findings: Neck: Right Level II: Increased FDG uptake with SUVmax of 7.8, consistent with metastatic disease. Right Level III: Increased FDG uptake with SUVmax of 6.5. Left Level II: Increased FDG uptake with SUVmax of 6.0. Left Level IV: Increased FDG uptake with SUVmax of 7.2. Retropharyngeal space: Increased FDG uptake with SUVmax of 6.1. Impression: Cervical Lymph Nodes: Multiple pathologically enlarged cervical lymph nodes in bilateral level II, right level III, left level IV, and retropharyngeal space with increased FDG uptake, highly suggestive of metastatic involvement from the known primary melanoma."
+        }
+      ]
+    },
+    {
+      "condition_name": "pulmonary metastasis of malignant melanoma",
+      "category": "cancer",
+      "subcategory": "metastasis",
+      "status": "active",
+      "onset": "February 2022",
+      "evidence": [
+        {
+          "note_id": "text_4",
+          "line_no": 37,
+          "span": "Multiple pulmonary nodules consistent with pulmonary metastases. Cardiac lesion suggestive of metastatic involvement. Evidence of skeletal metastases in the thorax and pelvis. Hepatic and muscular metastases, indicative of disseminated disease. Lymphadenopathy in the mediastinal, retroperitoneal, and pelvic regions."
+        }
+      ]
+    },
+    {
+      "condition_name": "nephrolithiasis",
+      "category": "renal",
+      "subcategory": "structural",
+      "status": "active",
+      "onset": "February 2018",
+      "evidence": [
+        {
+          "note_id": "text_0",
+          "line_no": 68,
+          "span": "start 91 min after tracer injection; 821 mm scan length \u00e1 () mm/s in flow technique (neck to proximal thigh); oral and i.v. contrast (1.5 mL/kg, i.v., max. 120 mL). Quantitative analysis of attenuation-corrected image data using SUV calculation. Findings:"
+        }
+      ]
+    },
+    {
+      "condition_name": "osteopenia",
+      "category": "musculoskeletal",
+      "subcategory": "degenerative",
+      "status": "active",
+      "onset": "February 2018",
+      "evidence": [
+        {
+          "note_id": "text_0",
+          "line_no": 68,
+          "span": "start 91 min after tracer injection; 821 mm scan length \u00e1 () mm/s in flow technique (neck to proximal thigh); oral and i.v. contrast (1.5 mL/kg, i.v., max. 120 mL). Quantitative analysis of attenuation-corrected image data using SUV calculation. Findings:"
+        }
+      ]
+    },
+    {
+      "condition_name": "wound infection",
+      "category": "infectious",
+      "subcategory": "bacterial",
+      "status": "active",
+      "onset": "October 2020",
+      "evidence": [
+        {
+          "note_id": "text_1",
+          "line_no": 185,
+          "span": "applied to the incision site. Postoperative Assessment: The procedure was completed without complications. Immediate postoperative neurological examination revealed no new deficits. The patient was transferred to the recovery room in stable condition, awaiting extubation by the anesthesiology team."
+        }
+      ]
+    },
+    {
+      "condition_name": "empyema",
+      "category": "infectious",
+      "subcategory": "bacterial",
+      "status": "resolved",
+      "onset": "October 2020",
+      "evidence": [
+        {
+          "note_id": "text_1",
+          "line_no": 235,
+          "span": "General Status (10/03/2020): Mrs. Done presented in stable condition with stable vital signs. Neurologically, she\\'s intact with no new focal deficits. The surgical scars in the frontal region from previous operations are not fully healed and there is some dehiscence and swelling, indicative of infection. This wound complication can be traced back to her previous history of an empyema which required surgical intervention."
+        }
+      ]
+    },
+    {
+      "condition_name": "covid-19",
+      "category": "infectious",
+      "subcategory": "viral",
+      "status": "active",
+      "onset": "January 2021",
+      "evidence": [
+        {
+          "note_id": "text_3",
+          "line_no": 26,
+          "span": "Imaging 01/02/2021: PET/CT: Cervical lymph node metastasis; cMRI: no evidence of metastases. Contrast-enhancing meninges. Virology: Upon Admission: SARS-CoV2 PCR (Nose/Throat): POSITIVE with a viral load"
+        }
+      ]
+    }
+  ]
+}

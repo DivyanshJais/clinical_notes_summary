@@ -1,0 +1,312 @@
+{
+  "patient_id": "patient_08",
+  "conditions": [
+    {
+      "condition_name": "cirrhosis",
+      "category": "gastrointestinal",
+      "subcategory": "hepatic",
+      "status": "active",
+      "onset": "May 2020",
+      "evidence": [
+        {
+          "note_id": "text_0",
+          "line_no": 75,
+          "span": "Terlipressin, monitor surveillance, Erythromycin Computed Tomography Thoracic spine from 05/22/2020: Fracture at the base plate of lumbar vertebra 2 with involvement of the posterior margin. Left lateral, no significant reduction in height of the vertebral body. No tension of the spine. Suspicion of new small fracture also at the cover plate at thoracic vertebra 8. Multiple, older, osteoporotic compression fractures at the thoracic spine and upper lumbar spine. Additional Finding: Liver cirrhosis with multiple nodules, low ascites, and portal vein congestion. Splenomegaly. If not already known, further workup of liver lesions is recommended. Hydrops of the gallbladder."
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 11,
+          "span": "Hydropic, decompensated liver cirrhosis Child B, first diagnosis: 05/20, ethyltoxic genesis"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 14,
+          "span": "Hydropic, decompensated liver cirrhosis Child B, first diagnosis: 05/20, ethyltoxic genesis"
+        },
+        {
+          "note_id": "text_4",
+          "line_no": 17,
+          "span": "Decompensated cirrhosis of the liver (Child B) since 05/20 due to ethyltoxic origin."
+        }
+      ]
+    },
+    {
+      "condition_name": "esophageal varices",
+      "category": "gastrointestinal",
+      "subcategory": "upper_gi",
+      "status": "active",
+      "onset": "May 2020",
+      "evidence": [
+        {
+          "note_id": "text_1",
+          "line_no": 16,
+          "span": "EGD of 05/28/20: sophageal varices III\u00b0 without risk signs, rubber band ligation; cardia varices I\u00b0, Histoacryl injection"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 19,
+          "span": "EGD of 06/13/20: Residual varices in the esophagus, application of 3 rubber band ligations, injection of 0.5 ml. Histoacryl; portal hypertensive gastropathy"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 382,
+          "span": "Varices of the esophagus and fundus. Splenomegaly. Ascites. Pleural effusions on both sides."
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 19,
+          "span": "EGD of 05/28/20: esophageal varices III\u00b0 without risk signs, rubber band ligation; cardia varices I\u00b0, Histoacryl injection"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 22,
+          "span": "EGD of 06/13/20: residual varices in the esophagus, application of 3 rubber band ligations, injection of 0.5 ml. Histoacryl; portal hypertensive gastropathy"
+        }
+      ]
+    },
+    {
+      "condition_name": "portal hypertensive gastropathy",
+      "category": "gastrointestinal",
+      "subcategory": "upper_gi",
+      "status": "active",
+      "onset": "June 2020",
+      "evidence": [
+        {
+          "note_id": "text_1",
+          "line_no": 19,
+          "span": "EGD of 06/13/20: Residual varices in the esophagus, application of 3 rubber band ligations, injection of 0.5 ml. Histoacryl; portal hypertensive gastropathy"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 22,
+          "span": "EGD of 06/13/20: residual varices in the esophagus, application of 3 rubber band ligations, injection of 0.5 ml. Histoacryl; portal hypertensive gastropathy"
+        }
+      ]
+    },
+    {
+      "condition_name": "cholelithiasis",
+      "category": "gastrointestinal",
+      "subcategory": "biliary",
+      "status": "active",
+      "onset": "May 2020",
+      "evidence": [
+        {
+          "note_id": "text_1",
+          "line_no": 33,
+          "span": "Cholecystolithiasis"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 36,
+          "span": "Cholecystolithiasis"
+        },
+        {
+          "note_id": "text_4",
+          "line_no": 29,
+          "span": "Cholelithiasis"
+        }
+      ]
+    },
+    {
+      "condition_name": "osteoporosis",
+      "category": "musculoskeletal",
+      "subcategory": "degenerative",
+      "status": "active",
+      "onset": "May 2020",
+      "evidence": [
+        {
+          "note_id": "text_0",
+          "line_no": 75,
+          "span": "Terlipressin, monitor surveillance, Erythromycin Computed Tomography Thoracic spine from 05/22/2020: Fracture at the base plate of lumbar vertebra 2 with involvement of the posterior margin. Left lateral, no significant reduction in height of the vertebral body. No tension of the spine. Suspicion of new small fracture also at the cover plate at thoracic vertebra 8. Multiple, older, osteoporotic compression fractures at the thoracic spine and upper lumbar spine. Additional Finding: Liver cirrhosis with multiple nodules, low ascites, and portal vein congestion. Splenomegaly. If not already known, further workup of liver lesions is recommended. Hydrops of the gallbladder."
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 37,
+          "span": "Osteoporosis"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 40,
+          "span": "Osteoporosis"
+        },
+        {
+          "note_id": "text_4",
+          "line_no": 33,
+          "span": "Osteoporosis"
+        }
+      ]
+    },
+    {
+      "condition_name": "osteoporotic vertebral fracture",
+      "category": "musculoskeletal",
+      "subcategory": "fracture",
+      "status": "active",
+      "onset": "May 2020",
+      "evidence": [
+        {
+          "note_id": "text_1",
+          "line_no": 25,
+          "span": "Fresh osteoporotic thoracic vertebra 8 fracture"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 28,
+          "span": "Fresh osteoporotic thoracic vertebra 8 fracture"
+        },
+        {
+          "note_id": "text_4",
+          "line_no": 22,
+          "span": "Osteoporotic thoracic vertebral fracture of vertebra BWK8 (OF3) with kyphoplasty."
+        }
+      ]
+    },
+    {
+      "condition_name": "hip osteoarthritis",
+      "category": "musculoskeletal",
+      "subcategory": "degenerative",
+      "status": "active",
+      "onset": "May 2020",
+      "evidence": [
+        {
+          "note_id": "text_1",
+          "line_no": 494,
+          "span": "Moderate coxarthrosis bilaterally. An old, minimally displaced fracture of the right 7th rib noted. Advanced degenerative changes in thoracic vertebrae 10, 12, and lumbar spine. Post-vertebroplasty status at thoracic vertebra 9. Hemangioma at thoracic vertebra 11."
+        }
+      ]
+    },
+    {
+      "condition_name": "hepatocellular carcinoma",
+      "category": "cancer",
+      "subcategory": "primary_malignancy",
+      "status": "active",
+      "onset": "May 2020",
+      "evidence": [
+        {
+          "note_id": "text_1",
+          "line_no": 1,
+          "span": "Initial diagnosis of hepatocellular carcinoma."
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 9,
+          "span": "MRI of the liver: disseminated HCC foci in all segments, the largest foci is localized in segments 5 / 7 / 8"
+        },
+        {
+          "note_id": "text_4",
+          "line_no": 12,
+          "span": "Hepatocellular Carcinoma (HCC)"
+        },
+        {
+          "note_id": "text_4",
+          "line_no": 14,
+          "span": "MR Liver: Disseminated HCC lesions in all segments, with the largest lesion located in segments 5/7/8"
+        }
+      ]
+    },
+    {
+      "condition_name": "anemia",
+      "category": "hematological",
+      "subcategory": "cytopenia",
+      "status": "active",
+      "onset": "May 2020",
+      "evidence": [
+        {
+          "note_id": "text_1",
+          "line_no": 14,
+          "span": "Anemia requiring transfusion"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 17,
+          "span": "Anemia requiring transfusion"
+        },
+        {
+          "note_id": "text_4",
+          "line_no": 20,
+          "span": "Transfusion-dependent anemia due to a history of variceal bleeding."
+        }
+      ]
+    },
+    {
+      "condition_name": "hypertension",
+      "category": "cardiovascular",
+      "subcategory": "hypertensive",
+      "status": "active",
+      "onset": "May 2020",
+      "evidence": [
+        {
+          "note_id": "text_1",
+          "line_no": 35,
+          "span": "Arterial hypertension"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 38,
+          "span": "Arterial hypertension"
+        },
+        {
+          "note_id": "text_4",
+          "line_no": 31,
+          "span": "Arterial hypertension"
+        }
+      ]
+    },
+    {
+      "condition_name": "aortic sclerosis",
+      "category": "cardiovascular",
+      "subcategory": "structural",
+      "status": "active",
+      "onset": "May 2020",
+      "evidence": [
+        {
+          "note_id": "text_1",
+          "line_no": 177,
+          "span": "Chest X-ray a.p. from 05/28/2020: Limited assessability in supine position, malrotation. The diaphragmatic crests are smooth. The marginal sinuses are free of effusions and calluses. Heart and mediastinum lie cryptically. The aorta is sclerosed. Cranialization of the vessels as well as slightly elevated vascular markings in the supine position, especially in the right upper field. Dystelectasis on the right. Sharply defined vertical shadowing in the left upper field. The upper mediastinum is narrow, the trachea is in the midline and is not constricted. Degenerative changes in the cervical spine. Overlying foreign material."
+        }
+      ]
+    },
+    {
+      "condition_name": "stroke",
+      "category": "neurological",
+      "subcategory": "cerebrovascular",
+      "status": "resolved",
+      "onset": "May 2020",
+      "evidence": [
+        {
+          "note_id": "text_1",
+          "line_no": 39,
+          "span": "Status post stroke"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 42,
+          "span": "Status post stroke"
+        },
+        {
+          "note_id": "text_4",
+          "line_no": 35,
+          "span": "History of stroke (2016)"
+        }
+      ]
+    },
+    {
+      "condition_name": "pleural effusion",
+      "category": "pulmonary",
+      "subcategory": "structural",
+      "status": "active",
+      "onset": "June 2020",
+      "evidence": [
+        {
+          "note_id": "text_1",
+          "line_no": 382,
+          "span": "Varices of the esophagus and fundus. Splenomegaly. Ascites. Pleural effusions on both sides."
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 470,
+          "span": "CT Chest/Abdomen/Pelvis with contrast agent from 06/18/2020:"
+        }
+      ]
+    }
+  ]
+}

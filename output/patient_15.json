@@ -1,0 +1,165 @@
+{
+  "patient_id": "patient_15",
+  "conditions": [
+    {
+      "condition_name": "classic galactosemia",
+      "category": "metabolic_endocrine",
+      "subcategory": "genetic_metabolic",
+      "status": "active",
+      "onset": "April 2009",
+      "evidence": [
+        {
+          "note_id": "text_0",
+          "line_no": 10,
+          "span": "Classic Galactosemia"
+        },
+        {
+          "note_id": "text_0",
+          "line_no": 12,
+          "span": "Medical History: The patient has a known diagnosis of galactosemia (dietetically managed). For the past week, he has been experiencing daily fevers up to 39\u00b0C, especially in the evenings and at night. He has been heavily congested with yellowish-tinged sputum. The patient also had difficulty sleeping through the night due to coughing fits, along with excessive nighttime sweating, as reported by the father. He has had"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 8,
+          "span": "Galactosemia"
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 8,
+          "span": "Galactosemia"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 10,
+          "span": "Galactosemia"
+        },
+        {
+          "note_id": "text_4",
+          "line_no": 9,
+          "span": "Galactosemia"
+        },
+        {
+          "note_id": "text_5",
+          "line_no": 9,
+          "span": "Galactosemia"
+        }
+      ]
+    },
+    {
+      "condition_name": "vitamin d deficiency",
+      "category": "metabolic_endocrine",
+      "subcategory": "nutritional_deficiency",
+      "status": "active",
+      "onset": "August 2016",
+      "evidence": [
+        {
+          "note_id": "text_1",
+          "line_no": 22,
+          "span": "Vitamin D deficiency"
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 22,
+          "span": "Vitamin D deficiency"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 24,
+          "span": "Vitamin D deficiency"
+        },
+        {
+          "note_id": "text_4",
+          "line_no": 23,
+          "span": "Vitamin D deficiency"
+        },
+        {
+          "note_id": "text_5",
+          "line_no": 23,
+          "span": "Vitamin D deficiency"
+        }
+      ]
+    },
+    {
+      "condition_name": "osteopenia",
+      "category": "musculoskeletal",
+      "subcategory": "degenerative",
+      "status": "active",
+      "onset": "August 2016",
+      "evidence": [
+        {
+          "note_id": "text_1",
+          "line_no": 10,
+          "span": "Osteopenia"
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 10,
+          "span": "Osteopenia"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 12,
+          "span": "Osteopenia"
+        },
+        {
+          "note_id": "text_4",
+          "line_no": 11,
+          "span": "Osteopenia"
+        },
+        {
+          "note_id": "text_5",
+          "line_no": 11,
+          "span": "Osteopenia"
+        }
+      ]
+    },
+    {
+      "condition_name": "gallstones",
+      "category": "gastrointestinal",
+      "subcategory": "biliary",
+      "status": "active",
+      "onset": "December 2020",
+      "evidence": [
+        {
+          "note_id": "text_5",
+          "line_no": 189,
+          "span": "[Assessment:]{.underline} The liver remains minimally enlarged without hepatic steatosis. Gallbladder stones persist with concrements showing no signs of irritation or cholestasis. Abdominal Sonography 12/02/2020: [Clinical Background and Indication]{.underline}: Galactosemia. Liver size? Steatosis? Liver function? Kidney stones?"
+        }
+      ]
+    },
+    {
+      "condition_name": "chorioamnionitis",
+      "category": "infectious",
+      "subcategory": "bacterial",
+      "status": "active",
+      "onset": "August 2016",
+      "evidence": [
+        {
+          "note_id": "text_1",
+          "line_no": 28,
+          "span": "Molecular Genetic Diagnosis: The molecular genetic analysis of the uridyltransferase gene with the detection of a homozygous mutation confirms the diagnosis. The exact mutation is available in the patient\\'s file. Medical History: The patient is the first child of non-consanguineous parents. After an uneventful pregnancy, he was delivered by secondary cesarean section due to prolonged labor. Birth weight was 4030 g, Apgar scores were 9-9-10. Postnatally, there was an amnion infection syndrome, followed by hyperbilirubinemia and hepatopathy, leading to the diagnosis of classical galactosemia in the newborn screening on the 7th day of life. Normalization of liver"
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 28,
+          "span": "Molecular Genetic Diagnosis: The molecular genetic analysis of the uridyltransferase gene with evidence of a homozygous mutation confirms the diagnosis. The exact mutation is on file. Medical History: The patient is the first child of non-consanguineous parents. After an uneventful pregnancy, he was born via secondary cesarean section due to prolonged labor. Birth weight was 4030 g, Apgar scores were 9-9-10. Postnatally, there was amnion infection syndrome, followed by hyperbilirubinemia and hepatopathy. Classic galactosemia was detected in the newborn screening on the 7th"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 30,
+          "span": "Molecular Genetic Diagnosis: Molecular genetic analysis of the uridyltransferase gene confirmed a homozygous mutation, confirming the diagnosis. The exact mutation is documented in the patient\\'s records. Medical History: The patient is the first child of non-consanguineous parents. He was born via secondary cesarean section after a prolonged labor, with a birth weight of 4030 grams and Apgar scores of 9-9-10. Postnatally, he had amnion infection syndrome, followed by hyperbilirubinemia and hepatopathy. Classic galactosemia was diagnosed through newborn screening on the 7th day of life."
+        },
+        {
+          "note_id": "text_4",
+          "line_no": 29,
+          "span": "The patient is the first child of non-consanguineous parents. He was born via secondary cesarean section after a prolonged labor, with a birth weight of 4030 grams and Apgar scores of 9-9-10. Postnatally, he had amnion infection syndrome, followed by hyperbilirubinemia and hepatopathy. Classic galactosemia was diagnosed through newborn screening on the 7th day of life."
+        },
+        {
+          "note_id": "text_5",
+          "line_no": 29,
+          "span": "Molecular Genetic Diagnosis: Molecular genetic analysis of the uridyltransferase gene confirmed a homozygous mutation, confirming the diagnosis. The exact mutation is documented in the patient\\'s records. Medical History: The patient is the first child of non-consanguineous parents. He was born via secondary cesarean section after a prolonged labor, with a birth weight of 4030 grams and Apgar scores of 9-9-10. Postnatally, he had amnion infection syndrome, followed by hyperbilirubinemia and hepatopathy. Classic galactosemia was diagnosed through newborn screening on the 7th day of life."
+        }
+      ]
+    }
+  ]
+}
